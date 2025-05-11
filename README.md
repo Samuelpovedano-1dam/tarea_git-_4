@@ -45,9 +45,3 @@
 ![](/fotos/11.png)
 ![](/fotos/12.png)
 
-# 1. Realicemos un fork del repositorio
-![](/fotos/4.png)
-
-# 1. Realicemos un fork del repositorio
-![](/fotos/4.png)
-
