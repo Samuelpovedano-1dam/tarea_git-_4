@@ -1,3 +1,23 @@
-# tarea_git-_4
-Esto es un cambio
-Esto es un cambio 2
+# 1. Realicemos un fork del repositorio
+![]()
+# 2. Clona el repositorio
+```git clone [DIRECCIÓN HTTPS]```
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
+# 1. Realicemos un fork del repositorio
+![]()
