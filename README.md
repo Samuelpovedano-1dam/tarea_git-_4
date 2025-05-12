@@ -8,5 +8,3 @@ Este es un ejemplo básico de un programa en Java que imprime "¡Hola Mundo!".
 2. Código subido
 3. Issues creados
 4. Issues solucionados desde la línea de comandos
-
-*(Aquí insertas las capturas correspondientes)*
