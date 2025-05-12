@@ -45,3 +45,18 @@
 ![](/fotos/11.png)
 ![](/fotos/12.png)
 
+## Commit individual
+
+# 1. Ls para conocer donde estamos
+![](/fotos_individual/1.png)
+
+# 2. Nos movemos a nuestra tarea, movemos todos los archivos que queramos y hacemos el commit
+![](/fotos_individual/2.png)
+![](/fotos_individual/3.png)
+
+# 3. Creamos el tag y hacemos su respectivo push
+![](/fotos_individual/4.png)
+
+# 4. Creamos el clon del repositorio y comprobamos que se haya hecho todo correctamente
+![](/fotos_individual/6.png)
+
